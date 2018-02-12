@@ -1,0 +1,15 @@
+body {background-color: gray;
+
+}
+img { width: 200px;
+      height: 200px; 
+      /* move image to center of screen */
+    }
+h1 { text-align: center;
+}
+h2 {text-align: left;
+}
+h3 {text-align: center;}
+
+#guess {text-align: center;
+        font-size: 28px;}
